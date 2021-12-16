@@ -1,0 +1,3 @@
+R5T.T0106.Construction - Construction project for Solution, project, and code directory and file contexts. (ISolutionContext, IProjectContext)..
+
+GOALS:
