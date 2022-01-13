@@ -3,7 +3,7 @@
 
 namespace R5T.T0106
 {
-    public class ProjectFileWithSolutionFileContext : IProjectFileContext, IWithSolutionFileContext
+    public class ProjectFileWithSolutionFileContext : IProjectFileWithSolutionFileContext
     {
         public string Name { get; set; }
         public string DirectoryPath { get; set; }
